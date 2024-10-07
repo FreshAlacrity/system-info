@@ -31,14 +31,15 @@ All rights listed have been approved by full [Consensus](consensus_process.md)
     * this includes external folk respecting our internal structures, for example by understanding when we choose to forgo things out of respect for our headmates and their respective duties, values, and preferences
 * to be respected and treated with consideration
     * to have our limits and values respected
-    * to have and find healthy ways to express our own individual feelings, preferences, and ideas and without being afraid of how someone else will react
+    * to have and find healthy ways to express our own feelings, preferences, and ideas without being afraid of how someone else will react
     * to have friends and find our own spaces without being restricted in who we can see
     * to [front](https://morethanone.info/#terms) or not front according to our own decisions
     * to say no to requests, activities, or being touched by anyone, at any time for any reason
+    * to be treated as an expert on the subject of our own experiences
 * to speak freely - without interference or pressure - to people we're out to
     * to have the best possible translation assistance
     * to speak up when we think someone else's actions or language are unfair or hurtful (with the exception of when the system has unanimously agreed to block or have no contact with an external individual or system)
-    * to not be outed as a system or as queer/trans/disabled/etc without prior consent
+    * to not be outed as a system or as queer/trans/disabled/etc without giving prior consent
 * to participate in [Consensus](#consensus_process.md) (our shared decision making process)
     * to call for an immediate Consensus vote (note that the likely outcome of a call for a Consensus vote on an issue that members do not have time to discuss or prepare for is often no consensus, since a decision is not possible yet)
     * to request information on an ongoing Consensus process, limited to what positions are being held (but not by whom) and whether or not a formal Consensus has been reached
