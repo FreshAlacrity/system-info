@@ -67,7 +67,7 @@ Composed & translated by members of [Cohort 6a](https://pk.mt/g/wttutt) and [Coh
         5. if there’s no agreement on a break duration or anyone needs to take a break before a duration is agreed to, the Consensus group reconvenes as soon as all the participants are available
     4. not everyone needs to speak every round; it’s fine to popcorn as long as the mediator can easily get a word in to make sure quieter folks are being heard
     5. if somebody needs to step away after the initial introductory round, they can designate someone in the group to represent them while they’re out, but they should be kept informed and included in any votes that happen as much as possible
-10.  Act on the Consensus agreement in good faith
+10. Act on the Consensus agreement in good faith
     1. if you're unsure how to honor the Consensus or unsure that someone else is doing so in the way you agreed to or intended, talk to other people who were present and if needed restart the Consensus process to discuss the ambiguity
     2. express gratitude for people who are changing their behavior to honor the Consensus agreement when you see it, regardless of your initial position or role in the process
     3. expect that even though everybody agreed, it may take time for people to change their behaviors and it’s a good idea to discuss with them how to support that (default to bringing it up with them privately first; if they seem unable or unwilling, start a new Consensus process to address it)
