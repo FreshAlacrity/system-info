@@ -37,6 +37,8 @@ what *[cohorts](#cohort)* and *[councilors](#council)* each seat corresponds to,
 
 any *[coordinate](#coordinates)* can request a seat at any time, which begins a *[Consensus](#consensus)* on what seat they will be assigned to
 
+see [profiles for the current list of councilors](https://pk.mt/g/iacrr)
+
 
 ### coordinates
 
@@ -205,6 +207,8 @@ informal terms for headmates who are members of only one *[cohort](#cohort)*
 gems are the only members to have just one letter in their callsign
 
 many gems are quite common for us& to see internally, but most rarely *[front](#fronting)*
+
+see [profiles for the current list of gems](https://pk.mt/g/nbzrx)
 
 
 #### internal name
